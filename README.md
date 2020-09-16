@@ -2,7 +2,7 @@
 
 ## Coursera [Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics)
 
-My notes of coursera courses in bioinformatics specialization.
+My notes of coursera course in bioinformatics specialization.
 - [Finding Hidden Messages in DNA](https://www.coursera.org/learn/dna-analysis)
 <!-- - [Genome Sequencing](https://www.coursera.org/learn/genome-sequencing) -->
 <!-- - [Comparing Genes, Proteins, and Genomes](https://www.coursera.org/learn/comparing-genomes) -->
